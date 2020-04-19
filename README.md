@@ -19,3 +19,11 @@ yarn build
 ```
 yarn lint
 ```
+
+## Need a plan
+
+### Step 1, knows basic point
+From official web site
+
+### Step 2, learn from top open source project
+- element
